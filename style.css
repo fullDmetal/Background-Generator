@@ -24,3 +24,8 @@ h3 {
 	text-transform: none;
 	letter-spacing: .01em;
 }
+
+img {
+  -webkit-filter: drop-shadow(7px 7px 7px #222);
+  filter: drop-shadow(7px 7px 7px #222);
+}
